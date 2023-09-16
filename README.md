@@ -7,8 +7,8 @@ I'm currently working on a program for exploring Multi-point Strange Attractors.
 
 I'm trying to (and failing to remember to) learn C++ purely because it's faster than python, my usual language.
 
-How to reach me:
-    Email: plasmapig13@gmail.com
+How to reach me: 
+- Email: plasmapig13@gmail.com
 
 Pronouns: He/Him
 
